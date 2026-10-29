@@ -51,7 +51,7 @@
 
 <div align="center">
 	
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### Homepage - [)
   
 [![1.1]][1]
 [![1.2]][2]
